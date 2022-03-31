@@ -2,7 +2,7 @@
 
 Exercise for MSCH-C220
 
-A demonstration of this exercise is available at [https://youtu.be/QlKtFpAqYTw](https://youtu.be/QlKtFpAqYTw).
+A demonstration of this exercise is available at [https://youtu.be/QlKtFpAqYTw](https://youtu.be/QlKtFpAqYTw)
 
 This exercise is a chance to play with Godot's networking capability in a 3D context. We will be extending a simple first-person-controlled character and allow the control of two of these characters over localhost.
 
